@@ -1,4 +1,5 @@
-<h1>Hi, I'm Abdullah Efeoğlu but You can call me Efe 👋</h1>
+<h1>Hi, I'm Abdullah Efeoğlu👋</h1>
+<p>You can call me Efe </p>
 <p>I build backend systems and I'm focused on cybersecurity.</p>
 
 
