@@ -1,5 +1,4 @@
-<h1>Hi, I'm Abdullah Efeoğlu 👋</h1>
-<p>You can call me Efe.</p>
+<h1>Hi, I'm Abdullah Efeoğlu but You can call me Efe 👋</h1>
 <p>I build backend systems and I'm focused on cybersecurity.</p>
 
 
@@ -34,4 +33,4 @@
 </p>
 
 
-<p><i>There won’t be a single day where I stop learning something new.</i></p>
+<h4><i>There won’t be a single day where I stop learning something new.</i></h4>
