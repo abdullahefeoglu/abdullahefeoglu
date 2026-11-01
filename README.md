@@ -29,7 +29,7 @@
 
 <p>
   📧 Email: efeoglu.abdullah1@gmail.com <br>
-  💼 LinkedIn: https://www.linkedin.com/in/abdullah-efeo%C4%9Flu-973ab0328/ <br>
+  💼 LinkedIn: www.linkedin.com/in/abdullahefeoglu <br>
   🚀 Open to collaboration and learning opportunities
 </p>
 
